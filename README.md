@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&section=header&animation=twinklng&text=gunoo%20&fontSize=90&fontColor=A4CB00)
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&section=header&animation=twinklng&text=gunoo%20&fontSize=90&fontColor=A4CB00)
 
 
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunoo-p&show_icons=true&theme=merko)] <br>
   
