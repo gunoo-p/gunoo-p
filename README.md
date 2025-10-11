@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&animation=twinklng&text=Gunoo%20GitHub&fontSize=90&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&animation=twinklng&text=Gunoo%20GitHub&fontSize=80&fontColor=ffffff)
 
 
 
