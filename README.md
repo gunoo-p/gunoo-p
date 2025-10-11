@@ -1,4 +1,4 @@
-## 안녕하세요~ 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+재밌게+코딩+해보겠습니다.;짜+자+잔)](https://git.io/typing-svg)
 
 <!--
 **gunoo-p/gunoo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunoo-p&show_icons=true&theme=merko) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+재밌게+코딩+해보겠습니다.;짜+자+잔)](https://git.io/typing-svg)
