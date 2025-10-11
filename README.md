@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&animation=twinklng&text=gunoo%20&fontSize=90&fontColor=#A4CB00)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&animation=twinklng&text=gunoo%20&fontSize=90&fontColor=A4CB00)
 
 
 
