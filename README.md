@@ -28,19 +28,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gunoo-p&theme=github-dark-blue&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunoo-p&theme=github-compact&hide_border=true&area=true)
-
-</div>
-
-<br>
-
-### 🚀 Contribution Game
 
 <div align="center">
 
