@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:3a3f45&height=120&text=Gunoo&fontSize=48&fontColor=ffffff&fontAlignY=55)
+<img src="assets/pixel-astronaut.svg" width="100%" alt="걸어다니는 픽셀 우주인"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=520&height=60&lines=%24+whoami;gunoo-p;%24+cat+status.txt;재밌게+코딩하는+중...)](https://git.io/typing-svg)
 
@@ -35,5 +35,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=gunoo-p&theme=github-dark-blue&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunoo-p&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+<br>
+
+### 🚀 Contribution Game
+
+<div align="center">
+
+![Space Shooter](assets/space-shooter.gif)
 
 </div>
