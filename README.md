@@ -4,12 +4,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=520&height=60&lines=%24+whoami;gunoo-p;%24+cat+status.txt;재밌게+코딩하는+중...)](https://git.io/typing-svg)
 
+<a href="https://gunoo-p.github.io/"><img src="https://img.shields.io/badge/Portfolio-gunoo--p.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:gunoo0387@naver.com"><img src="https://img.shields.io/badge/Email-gunoo0387@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
 </div>
 
 ### 👋 About Me
 
 - 🌱 여러 AI를 활용한 프로젝트들을 경험해보고 있습니다.
-- 📫 연락: **gunoo0387@naver.com**
+- 🗂 자세한 경력과 프로젝트는 **[포트폴리오](https://gunoo-p.github.io/)** 에서 볼 수 있어요.
+
+<br>
+
+### 🧭 My Journey
+
+**2014 – 2017**　서호중학교<br>
+**2017 – 2020**　삼일공업고등학교 · 정보통신과 · 기술의 기본기를 쌓음<br>
+**2019 – 2021**　(주)날다 · 개발부 주임 · 현장에서 제품을 만들고 운영<br>
+**군 복무**　대한민국 육군 · 행정병 · 병장 만기 전역<br>
+**2024 – 2027**　대림대학교 · 컴퓨터정보학부 · 개발 역량을 확장하는 중
 
 <br>
 
@@ -28,6 +41,15 @@
 
 <br>
 
+### 📌 Featured Projects
+
+| 프로젝트 | 설명 | 기술 |
+|:--|:--|:--|
+| [🏭 반도체 클린룸 모니터링 대시보드](https://github.com/gunoo-p/cleanroom-dashboard) | 센서 데이터를 MQTT로 수집해 실시간 모니터링하고, Claude API로 이벤트 로그를 요약하는 웹 대시보드 | ESP32 · FastAPI · React · TimescaleDB · Docker |
+| [💄 HUR](https://github.com/App-Legend/HUR) | 퍼스널 컬러 기반 메이크업 피드·화장품 탐색 뷰티 커뮤니티 앱 (백엔드 메인 · DevOps) | Flutter · Node.js · PostgreSQL · Docker |
+| 🌡 비접촉 온도측정기 | ESP32와 적외선·초음파 센서로 만든 발열 체크·출입 관리 시스템, 개발부터 판매까지 주도 | ESP32 · Arduino C++ · OpenCV |
+
+<br>
 
 <div align="center">
 
