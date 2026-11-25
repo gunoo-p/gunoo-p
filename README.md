@@ -43,7 +43,7 @@
 |:--|:--|:--|
 | [🏭 반도체 클린룸 모니터링 대시보드](https://github.com/gunoo-p/cleanroom-dashboard) | 센서 데이터를 MQTT로 수집해 실시간 모니터링하고, Claude API로 이벤트 로그를 요약하는 웹 대시보드 | ESP32 · FastAPI · React · TimescaleDB · Docker |
 | [💄 HUR](https://github.com/App-Legend/HUR) | 퍼스널 컬러 기반 메이크업 피드·화장품 탐색 뷰티 커뮤니티 앱 (백엔드 메인 · DevOps) | Flutter · Node.js · PostgreSQL · Docker |
-| 🌡 비접촉 온도측정기 | ESP32와 적외선·초음파 센서로 만든 발열 체크·출입 관리 시스템, 개발부터 판매까지 주도 | ESP32 · Arduino C++ · OpenCV |
+| 🌡 비접촉 온도측정기 | ESP32와 적외선·초음파 센서로 만든 발열 체크·출입 관리 시스템 | ESP32 · Arduino C++ · OpenCV |
 
 <br>
 
